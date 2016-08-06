@@ -22,8 +22,14 @@
 
 　　本模块主要是分别研究不同类别的应用开发模型和技术选型
 
-### 资源引用
+### 资源
+
+   国内火爆的资源大全集：
+
+- CodeKK：[https://github.com/Trinea/android-open-project](https://github.com/Trinea/android-open-project)
+- Awesome：[https://github.com/jobbole/awesome-android-cn](https://github.com/jobbole/awesome-android-cn)
+- snowdream：[https://snowdream.github.io/awesome-android/Other.html](https://snowdream.github.io/awesome-android/Other.html)
 
     
-本章节将罗列出活跃与社区的开发者和一些开源资源库的，使得能够跟随最新的技术趋势，更上一层楼
+
    
